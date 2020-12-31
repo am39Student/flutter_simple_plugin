@@ -1,0 +1,2 @@
+# flutter_simple_plugin
+一个简单的flutter插件
